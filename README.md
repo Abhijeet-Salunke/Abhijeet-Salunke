@@ -1,7 +1,7 @@
 <!-- ![Header](./github-header-.png )-->
-                                                      Hi there ! 👋 I'm Abhijeet Salunke
+## Hi there ! 👋 I'm Abhijeet Salunke
 
-**Abhijeet-Salunke/Abhijeet-Salunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Abhijeet-Salunke/Abhijeet-Salunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
