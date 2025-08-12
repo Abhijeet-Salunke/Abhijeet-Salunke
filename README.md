@@ -23,13 +23,13 @@ I am an Assistant System Engineer, working as a Java Developer with hands-on exp
 
 ### Environment
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
-![STS](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![STS](https://img.shields.io/badge/STS-6DB33F?logo=spring&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white)
 
 ### Technology / Framework
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white)
-![Springdata JPA](https://img.shields.io/badge/Springdata_JPA-6DB33F?logo=spring&logoColor=white)
-![RESTful Web Services](https://img.shields.io/badge/RESTful_Web_Services-6DB33F?logo=rest&logoColor=white)
+![Springdata JPA](https://img.shields.io/badge/Springdata_JPA-61DAFB?logo=spring&logoColor=white)
+![RESTful Web Services](https://img.shields.io/badge/RESTful_Web_Services-DD0031?logo=rest&logoColor=white)
 
 ### Database
 
